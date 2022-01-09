@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayuresh Shelke - aka [Mayurcodejet][website] 👋 
 
-[![Website](https://img.shields.io/website?label=mayurcodejet.com&style=for-the-badge&url=https%3A%2F%2Fmayurcodejet.com)](http://mayurcodejet.com)
+[![Website](https://img.shields.io/website?label=mayurcodejet&style=for-the-badge&url=https%3A%2F%2Fmayurcodejet.com)](http://mayurcodejet.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mayurcodejet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mayurcodejet)
 
 ## I'm a Student, Ui/Ux, Front-End Developer!!
