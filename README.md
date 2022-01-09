@@ -35,37 +35,7 @@
 <br />
 <br />
 
----
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://mayurcodejet.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mayurcodejet/video-source-code-create-nft-collection/issues/26) in [mayurcodejet/video-source-code-create-nft-collection](https://github.com/mayurcodejet/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/mayurcodejet/video-source-code-create-nft-collection/issues/25) in [mayurcodejet/video-source-code-create-nft-collection](https://github.com/mayurcodejet/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/mayurcodejet/video-source-code-create-nft-collection/issues/25) in [mayurcodejet/video-source-code-create-nft-collection](https://github.com/mayurcodejet/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/mayurcodejet/video-source-code-create-nft-collection/issues/20) in [mayurcodejet/video-source-code-create-nft-collection](https://github.com/mayurcodejet/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/mayurcodejet/video-source-code-create-nft-collection/issues/23) in [mayurcodejet/video-source-code-create-nft-collection](https://github.com/mayurcodejet/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mayurcodejet's GitHub Stats" src="https://github-readme-stats.mayurcodejet.vercel.app/api?username=mayurcodejet&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://mayurcodejet.com
 [twitter]: https://twitter.com/mayurcodejet
